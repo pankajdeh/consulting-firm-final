@@ -111,7 +111,7 @@ const Contactform = () => {
           // First, send data to Google Sheets
           await sendToSheet(formData);
           // Then, send the email/form data
-          await sendForm(formData);
+          // await sendForm(formData);
         })(),
         {
           loading: "Processing your request...",
