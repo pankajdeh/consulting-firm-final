@@ -207,8 +207,6 @@ const Contactform = () => {
   };
   
   
-  
-
   // const handleSubmit = async (e) => {
   //   e.preventDefault();
 
