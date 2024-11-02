@@ -246,8 +246,8 @@ const Footer = () => {
             </p>
             <p className="flex items-center">
               <i className="pi pi-globe mr-1"></i>
-              <Link href="https://www.vakratundtours.com/">
-                www.auraveritas.com
+              <Link href="/">
+              www.auraveritas.co.in
               </Link>
             </p>
           </div>
