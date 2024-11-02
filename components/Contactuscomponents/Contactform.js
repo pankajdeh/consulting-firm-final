@@ -120,6 +120,8 @@ const Contactform = () => {
         }
       );
 
+
+      
       // // Toast notifications for sending data to Google Sheets
       // await toast.promise(
       //   sendToSheet(formData),
@@ -142,6 +144,8 @@ const Contactform = () => {
 
 
         // Manually reset form fields
+
+        
     e.target.firstName.value = '';
     e.target.lastName.value = '';
     e.target.mobileNumber.value = '';
@@ -206,7 +210,7 @@ const Contactform = () => {
     }
   };
   
-  
+
   // const handleSubmit = async (e) => {
   //   e.preventDefault();
 
