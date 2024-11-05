@@ -24,7 +24,7 @@ export async function POST(req) {
     let mailOptions = {
       from: email, // The user's email address
       to: process.env.Client_Email, // Your email address to receive the contact details
-      subject: `Service Inquiry: ${serviceRequired}`, // Use the service required as the subject
+      subject: `AuraVeritas Customer Enquiry: ${serviceRequired}`, // Use the service required as the subject
       text: `
         Name: ${firstName} ${lastName}
         Email: ${email}
