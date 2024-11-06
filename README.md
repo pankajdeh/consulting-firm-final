@@ -71,10 +71,12 @@ Root Directory
 
 1. Cloudinary Account Create  - https://www.youtube.com/watch?v=lcKQv4QAXME
 2. Finding Your Cloudinary API Key, Cloud Name, and Credentials - https://www.youtube.com/watch?v=ok9mHOuvVSI
-3. 
 
-
-
-Cloud name - df0vnykyr
-
+## How to renew Domain?
+1. Log In: Go to GoDaddy.com and log in to your account.
+2. Access Domains: Click on your profile (top right), then select "My Products" from the dropdown.
+3. Find the Domain: Under "Domains," find the domain you want to renew.
+4. Renew Domain: Click on "Renew" or "Add to Cart" next to the domain. Adjust the renewal term if needed.
+5. Proceed to Checkout: Click "Continue to Cart," review the details, and choose the renewal term.
+6. Complete Payment: Enter your payment information and complete the transaction to renew the domain.
 
