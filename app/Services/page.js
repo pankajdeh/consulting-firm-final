@@ -11,31 +11,31 @@ const services = [
   {
     id: 1,
     title: "ESG & Decarbonisation",
-    image:"https://res.cloudinary.com/diifdlgwr/video/upload/v1727805403/wm7crahpavrjza1iopzr.mp4",
+    image:"https://res.cloudinary.com/df0vnykyr/video/upload/v1730891263/ESGVideo_f4says.mp4",
     link: "/ESG&Decarbonisation",
   },
   {
     id: 2,
     title: "Climate Change Services",
-    image:"https://res.cloudinary.com/diifdlgwr/video/upload/v1727805450/q6cygrgjy7oaxsswyxxe.mp4",
+    image:"https://res.cloudinary.com/df0vnykyr/video/upload/v1730891263/ClimateChangeVideo_sowz6w.mp4",
     link: "/ClimateChange",
   },
   {
     id: 3,
     title: "Safety & Risk Assessment",
-    image:"https://res.cloudinary.com/diifdlgwr/video/upload/v1727805495/vy3vp5w2gfru7ua6soag.mp4",
+    image:"https://res.cloudinary.com/df0vnykyr/video/upload/v1730891263/SafetyVideo_ic7oxd.mp4",
     link: "/SafetyRiskAssessment",
     },
   {
     id: 4,
     title: "Trainings & Auditing",
-    image:"https://res.cloudinary.com/diifdlgwr/video/upload/v1727805532/p1yzhjymkcpm0tv6oc5p.mp4",
+    image:"https://res.cloudinary.com/df0vnykyr/video/upload/v1730891263/TrainingVideo_hdqfsd.mp4",
     link: "/Trainings&Auditing",
   },
   {
     id: 5,
     title: "Engineering Services",
-    image:"https://res.cloudinary.com/diifdlgwr/video/upload/v1727805567/ekgkyjntsvqgnxebotwv.mp4",
+    image:"https://res.cloudinary.com/df0vnykyr/video/upload/v1730891264/EngineeringVideo_jbr99g.mp4",
     link: "/EngineeringServices",
   },
   
