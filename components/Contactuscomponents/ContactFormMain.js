@@ -59,7 +59,28 @@ const ContactFormMain = () => {
               </p>
             </div>
           </CardBody>
+          
         </Card>
+
+
+        <Card  className="md:w-[30rem] w-11/12 transition hover:scale-105 transform  duration-300 shadow-md">
+          <CardBody className="flex justify-start items-center w-full flex-row gap-4 p-3">
+            <div className="flex justify-center items-center h-16 w-16 bg-greentheme rounded-full">
+              <FcAddressBook size={24} />
+            </div>
+            <div className="w-2/4 flex flex-col justify-start items-start gap-1">
+              <h6 className="font-bold text-sm text-[#0b8d7c] capitalize">
+              Careers
+              </h6>
+              <p className="text-xs">
+              info@auraveritas.in <br />
+              </p>
+            </div>
+          </CardBody>
+          
+        </Card>
+
+
         <Card  className="md:w-[30rem] w-11/12  shadow-md transition hover:scale-105 transform  duration-300 ">
           <CardBody className="flex justify-start items-center w-full flex-row gap-4 p-3">
             <div className="flex justify-center items-center h-16 w-16 bg-greentheme rounded-full">

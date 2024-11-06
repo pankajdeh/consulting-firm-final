@@ -23,6 +23,9 @@ const Getintouch = () => {
           <MdOutlineEmail size={24} className="text-[#36a39e]" />
           <p>ceo@auraveritas.in</p>
         </div>
+
+      
+        
         <div className="flex justify-between items-center gap-4">
           <FiPhone size={24} className="text-[#36a39e]"/>
           <p>+91-9150547979 | +91-8939204319</p>
