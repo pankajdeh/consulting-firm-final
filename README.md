@@ -64,4 +64,17 @@ Root Directory
 
 ## Domain Certificate - Access in  Public folder in this file. 
 
+3. Exact Domain Expiring date  - 21/9/2024
+ 
+
 ## How to setup cloudinary - 
+
+1. Cloudinary Account Create  - https://www.youtube.com/watch?v=lcKQv4QAXME
+2. Finding Your Cloudinary API Key, Cloud Name, and Credentials - https://www.youtube.com/watch?v=ok9mHOuvVSI
+3. 
+
+
+
+Cloud name - df0vnykyr
+
+

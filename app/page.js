@@ -38,7 +38,9 @@ export default function Home() {
           loop
           autoPlay
           className="absolute top-0 left-0 w-full h-full object-cover brightness-50"
+          // src="https://res.cloudinary.com/df0vnykyr/video/upload/v1729354959/acjizn8r2xqs1tuofpei.mov"
           src="https://res.cloudinary.com/df0vnykyr/video/upload/v1729354959/acjizn8r2xqs1tuofpei.mov"
+         
           onError={() => setVideoError(true)}
         />
       )}
