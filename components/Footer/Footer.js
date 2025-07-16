@@ -15,21 +15,7 @@ import { FaWhatsapp } from "react-icons/fa";
 import "primeicons/primeicons.css";
 
 const Footer = () => {
-  //   const [email, setEmail] = useState("");
-  //   const [subscribed, setSubscribed] = useState(false);
-  //   const router = useRouter();
-
-  //   const handleSubscribe = () => {
-  //     // Simulate subscription process
-  //     if (email) {
-  //       // Here, you can integrate your actual subscription logic
-  //       toast.success("Thank you for subscribing!");
-  //       setEmail("");
-  //     } else {
-  //       toast.error("Please enter a valid email address.");
-  //     }
-  //   };
-
+ 
   return (
     <div className="w-full flex flex-col bg-primary-foreground">
      
@@ -133,7 +119,6 @@ const Footer = () => {
                 Engineering and Services
                 </Link>
 
-
               </div>
             </div>
 
@@ -149,13 +134,13 @@ const Footer = () => {
                   >ceo@auraveritas.in</span>
                 </p>
                 <p className="text-gray-700  ">
-                  Phone : +91-9150547979 | +91-8939204319
+                  Phone : +91-9150547979 | 
                 </p>
                 <p className="text-gray-700 ">
                   Website :<span> www.Info.com</span>
                 </p>
                 <p className="text-gray-700 ">
-                  Office :<span> Plot No: 46G, Bel Nagar, Manapakkam, Chennai - 600125.
+                  Office :<span>N0. 87, 1st Floor, 4th Cross Street, Phase-1 Tirumalai Nagar, Perungudi, Chennai-600 096
                   </span>
                 </p>
                 </div> */}
@@ -168,7 +153,7 @@ const Footer = () => {
   </p>
   <p className="text-gray-700 mb-2 ">
     <span className="font-medium">Phone : </span>
-     +91-9150547979 | +91-8939204319 
+     +91-9150547979
   </p>
  
  
@@ -176,11 +161,9 @@ const Footer = () => {
     <span className="font-medium">Website :</span> www.auraveritas.co.in
   </p>
   <p className="text-gray-700">
-    <span className="font-medium">Office :</span> Plot No: 46G, Bel Nagar, Manapakkam, Chennai - 600125.
+    <span className="font-medium">Office :</span> N0. 87, 1st Floor, 4th Cross Street, Phase-1 Tirumalai Nagar, Perungudi, Chennai-600 096
   </p>
 </div>
-
-
 
                 <div className="flex justify-center items-center w-full rounded-lg h-24  mt-20">
                   <div className="flex justify-around gap-2 items-center">
@@ -231,7 +214,7 @@ const Footer = () => {
          {` Aura Veritas Engineering & Consultancy Private Limited
           `}</h3>
           <p className="text-xs md:text-base text-white mt-2">
-          {`Plot No: 46G, Bel Nagar, Manapakkam, Chennai - 600125.`}
+          {`N0. 87, 1st Floor, 4th Cross Street, Phase-1 Tirumalai Nagar, Perungudi, Chennai-600 096`}
 
           </p>
 
@@ -242,7 +225,7 @@ const Footer = () => {
             </p>
             <p className="flex items-center">
               <i className="pi pi-phone mr-1"></i>
-              +91-9150547979 | +91-8939204319
+              +91-9150547979 
             </p>
             <p className="flex items-center">
               <i className="pi pi-globe mr-1"></i>

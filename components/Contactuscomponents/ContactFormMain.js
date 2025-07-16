@@ -90,7 +90,7 @@ const ContactFormMain = () => {
               <h6 className="font-bold text-sm text-[#0b8d7c] capitalize">
                 address
               </h6>
-              <p className="text-xs">{`Plot No: 46G, Bel Nagar, Manapakkam, Chennai - 600125.`}</p>
+              <p className="text-xs">{`N0. 87, 1st Floor, 4th Cross Street, Phase-1 Tirumalai Nagar, Perungudi, Chennai-600 096`}</p>
             </div>
           </CardBody>
         </Card>
