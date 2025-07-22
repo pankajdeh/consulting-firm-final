@@ -63,7 +63,7 @@ export function NavigationMenuDemo() {
               </ListItem>
               <ListItem href="/Contactus" title=" Get in Touch">
                 <span> Email : ceo@auraveritas.in</span>
-                <span> Phone :9150547979 </span>
+                <span> Phone :91505 47979 </span>
               </ListItem>
               <ListItem
                 href="/"

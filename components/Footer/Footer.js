@@ -153,7 +153,7 @@ const Footer = () => {
   </p>
   <p className="text-gray-700 mb-2 ">
     <span className="font-medium">Phone : </span>
-     (+91)-9150547979
+     (+91)-91505 47979
   </p>
  
  
@@ -225,7 +225,7 @@ const Footer = () => {
             </p>
             <p className="flex items-center">
               <i className="pi pi-phone mr-1"></i>
-              (+91)-9150547979 
+              (+91)-91505 47979 
             </p>
             <p className="flex items-center">
               <i className="pi pi-globe mr-1"></i>

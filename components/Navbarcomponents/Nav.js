@@ -419,7 +419,7 @@ export default function Nav() {
             href="/Contactus"
             variant="solid"
           >
-            <FaPhone className="text-white " /> (+91)-9150547979 
+            <FaPhone className="text-white " /> (+91)-91505 47979 
           </Button>
 
           <Button
@@ -501,7 +501,7 @@ export default function Nav() {
                           onClick={() => router.push("/Contactus")}
                           className=" h-8 bg-[#36a39e] text-white rounded-full  w-52 font-bold md:hidden lg:hidden"
                         >
-                          (+91)-9150547979 
+                          (+91)-91505 47979 
                         </button>
                       </SheetClose>
                     </div>
