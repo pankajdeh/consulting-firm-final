@@ -28,7 +28,7 @@ const Getintouch = () => {
         
         <div className="flex justify-between items-center gap-4">
           <FiPhone size={24} className="text-[#36a39e]"/>
-          <p>+91-9150547979</p>
+          <p>(+91)-9150547979</p>
         </div>
       </div>
       <div className="md:flex hidden lg:flex justify-center items-center w-full rounded-lg lg:h-24 md:h-24 h-14 bg-primary-foreground lg:mt-20 md:mt-20 mt-4">

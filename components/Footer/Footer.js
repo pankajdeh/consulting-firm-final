@@ -153,7 +153,7 @@ const Footer = () => {
   </p>
   <p className="text-gray-700 mb-2 ">
     <span className="font-medium">Phone : </span>
-     +91-9150547979
+     (+91)-9150547979
   </p>
  
  
@@ -161,7 +161,7 @@ const Footer = () => {
     <span className="font-medium">Website :</span> www.auraveritas.co.in
   </p>
   <p className="text-gray-700">
-    <span className="font-medium">Office :</span> N0. 87, 1st Floor, 4th Cross Street, Phase-1 Tirumalai Nagar, Perungudi, Chennai-600 096
+    <span className="font-medium">Office :</span> No. 87, 1st Floor, 4th Cross Street, Phase-1 Tirumalai Nagar, Perungudi, Chennai-600 096, India
   </p>
 </div>
 
@@ -214,7 +214,7 @@ const Footer = () => {
          {` Aura Veritas Engineering & Consultancy Private Limited
           `}</h3>
           <p className="text-xs md:text-base text-white mt-2">
-          {`N0. 87, 1st Floor, 4th Cross Street, Phase-1 Tirumalai Nagar, Perungudi, Chennai-600 096`}
+          {`No. 87, 1st Floor, 4th Cross Street, Phase-1 Tirumalai Nagar, Perungudi, Chennai-600 096, India`}
 
           </p>
 
@@ -225,7 +225,7 @@ const Footer = () => {
             </p>
             <p className="flex items-center">
               <i className="pi pi-phone mr-1"></i>
-              +91-9150547979 
+              (+91)-9150547979 
             </p>
             <p className="flex items-center">
               <i className="pi pi-globe mr-1"></i>
