@@ -6,8 +6,10 @@ import { useTypewriter, Cursor } from "react-simple-typewriter";
 import Image from "next/image";
 import windmill from "../../public/Images/windmill.png";
 import React, { useState, useEffect } from "react";
-
+// import Image from "next/image";
+import ISO from "../../public/Images/ISO.JPG"; // Updated to use the correct image path
 import GradualSpacing from "@/components/magicui/gradual-spacing";
+
 
 const Hero = () => {
   // const [videoError, setVideoError] = useState(false); // State to track video load error
@@ -54,7 +56,20 @@ const Hero = () => {
           Aura Veritas Engineering & Consultancy Private Limited
         </h1>
 
-        {/* Subheading */}
+
+         <div className="flex justify-center items-center mt-1 gap-x-2" >
+                     <Image
+                  className="object-fill h-[30px] w-[30px] rounded-lg "
+                  src={ISO}
+                  alt="ISO"
+                />
+                    <p className="font-semibold text-md md:text-lg text-white">
+                 {`ISO 9001:2015 Certified Company
+                  `}</p>
+                  </div>
+        
+
+        {/* Subheading */}  
         <p className="text-white text-base sm:text-lg md:text-xl lg:text-xs xl:text-2xl max-w-4xl">
           Empowering organizations to navigate the complexities of sustainability, risk assessment, and beyond.
         </p>

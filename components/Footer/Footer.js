@@ -7,12 +7,14 @@ import Image from "next/image";
 
 import Link from "next/link";
 
-
+import ISO from "../../public/Images/ISO.JPG";
 import FooterHero from "../../public/Images/FooterHero.JPG";
 import { FaInstagram } from "react-icons/fa";
 import { SlSocialFacebook } from "react-icons/sl";
 import { FaWhatsapp } from "react-icons/fa";
 import "primeicons/primeicons.css";
+
+
 
 const Footer = () => {
  
@@ -213,6 +215,22 @@ const Footer = () => {
           <h3 className="font-bold text-2xl md:text-4xl text-white">
          {` Aura Veritas Engineering & Consultancy Private Limited
           `}</h3>
+          
+{/* foooter side */}
+
+          <div className="flex justify-center items-center mt-2 gap-x-2" >
+             <Image
+          className="object-fill h-[30px] w-[30px] rounded-lg "
+          src={ISO}
+          alt="ISO"
+        />
+            <p className="font-semibold text-md md:text-lg text-white">
+         {`ISO 9001:2015 Certified Company
+          `}</p>
+          </div>
+
+
+
           <p className="text-xs md:text-base text-white mt-2">
           {`No. 87, 1st Floor, 4th Cross Street, Phase-1 Tirumalai Nagar, Perungudi, Chennai-600 096, India`}
 

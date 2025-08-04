@@ -197,8 +197,12 @@ const AboutUs = () => {
                 <i className="pi pi-sparkles" style={{ fontSize: "1rem" }}></i>
               </span>
             </h2>
-            <p className="max-w-[1100px] text-muted-foreground md:text-lg lg:text-lg text-sm leading-7 text-gray-500">
-              {`Aura Veritas Engineering and Consulting firm registered in Chennai, India specialized in the field of Engineering Consulting Services , Environment Compliance Services, Safety & Risk Management Consulting Services , Sustainability Consulting Services, Auditing and Inspection Services, Asset Integrity Management, Training, Cyber Security, Technical Resourcing for all leading Energy, Infra, Logistics, Health Care and Manufacturing Industries`}
+            <p className="max-w-[1100px] font-semibold  text-muted-foreground md:text-lg lg:text-lg text-sm leading-7 text-gray-500">
+              {`We Deliver our Customer Trust and Passion about Engineering, Safety and Sustainability`}
+            </p>
+
+            <p className="max-w-[1100px]  text-muted-foreground md:text-lg lg:text-lg text-sm leading-7 text-gray-500">
+              {`aAura Veritas Engineering and Consulting firm registered in Chennai, India specialized in the field of Engineering Consulting Services , Environment Compliance Services, Safety & Risk Management Consulting Services , Sustainability Consulting Services, Auditing and Inspection Services, Asset Integrity Management, Training, Cyber Security, Technical Resourcing for all leading Energy, Infra, Logistics, Health Care and Manufacturing Industries`}
             </p>
             {/* <p className="max-w-[600px] text-muted-foreground md:text-lg lg:text-lg text-sm leading-7 text-gray-500">
               {`We believe in challenging ourselves and adding value to the rapidly changing energy industry. We believe in an individual approach as we understand each client has different needs. Together with you, we will find an optimal process to identify your needs and determine the best solutions.`}
