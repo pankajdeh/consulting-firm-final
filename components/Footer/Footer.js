@@ -221,7 +221,9 @@ const Footer = () => {
              <Image
           className="object-fill h-[30px] w-[30px] rounded-lg "
           src={iso}
-          alt="iso image"
+          alt="iso certification logo"
+          height={30}
+          width={30}
         />
            <p className="font-semibold text-md md:text-lg text-white">
          {`ISO 9001:2015 14001:2015, 45001:2018, 20400:2017, 14064.1:2018

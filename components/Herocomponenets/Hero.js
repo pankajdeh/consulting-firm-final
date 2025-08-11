@@ -1,5 +1,4 @@
 
-
 "use client";
 import Link from "next/link";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
@@ -9,7 +8,6 @@ import React, { useState, useEffect } from "react";
 
 import iso from "../../public/Images/iso.jpg"; // Updated to use the correct image path
 import GradualSpacing from "@/components/magicui/gradual-spacing";
-
 
 const Hero = () => {
   // const [videoError, setVideoError] = useState(false); // State to track video load error
@@ -61,7 +59,9 @@ const Hero = () => {
                      <Image
                   className="object-fill h-[30px] w-[30px] rounded-lg "
                   src={iso}
-                  alt="ISO image"
+                  alt="ISO certification logo"
+                  height={30}
+                  width={30}
                 />
                     <p className="font-semibold text-md md:text-lg text-white">
                  {`ISO 9001:2015 14001:2015, 45001:2018, 20400:2017, 14064.1:2018 
