@@ -3,6 +3,19 @@
 @tailwind utilities;
 
 
+@keyframes slide-right {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.animate-slide-right {
+  animation: slide-right 3s linear forwards;
+}
+
 
 
 .back {

@@ -15,6 +15,7 @@ import Client10 from "../../public/Images/Client10.jpeg"
 import { motion } from "framer-motion";
 import Link from "next/link";
 import ShineBorder from "@/components/magicui/shine-border";
+import SequentialMarquee from "@/components/AboutUs/SequentialMarquee";
 
 
 import AOS from "aos";
@@ -186,6 +187,10 @@ const AboutUs = () => {
 
   return (
     <section id="services" className="bg-white py-12 md:py-24 lg:py-24">
+
+
+    
+
       <div className="container px-4 md:px-6">
         <motion.div  data-aos="fade-down"  className="flex flex-col items-center justify-center space-y-6 text-center" >
           <div className="space-y-2" >
@@ -200,6 +205,14 @@ const AboutUs = () => {
             <p className="max-w-[1100px] font-semibold  text-muted-foreground md:text-lg lg:text-lg text-sm leading-7 text-gray-500">
               {`We Deliver our Customer Trust and Passion about Engineering, Safety and Sustainability`}
             </p>
+
+                <div className=" mx-auto">
+      <SequentialMarquee
+        texts={["ISO 9001:2015","ISO 14001:2015","ISO 45001:2018","ISO 20400:2017", "ISO 14064.1:2018"]}
+        speed={150} // px per second, tweak as needed
+      />
+    </div>
+          
 
             <p className="max-w-[1100px]  text-muted-foreground md:text-lg lg:text-lg text-sm leading-7 text-gray-500">
               {`aAura Veritas Engineering and Consulting firm registered in Chennai, India specialized in the field of Engineering Consulting Services , Environment Compliance Services, Safety & Risk Management Consulting Services , Sustainability Consulting Services, Auditing and Inspection Services, Asset Integrity Management, Training, Cyber Security, Technical Resourcing for all leading Energy, Infra, Logistics, Health Care and Manufacturing Industries`}
