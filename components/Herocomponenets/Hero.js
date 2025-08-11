@@ -6,7 +6,7 @@ import Image from "next/image";
 import windmill from "../../public/Images/windmill.png";
 import React, { useState, useEffect } from "react";
 
-import iso from "../../public/Images/iso.jpg"; // Updated to use the correct image path
+import iso from "../../public/Images/iso.png"; // Updated to use the correct image path
 import GradualSpacing from "@/components/magicui/gradual-spacing";
 
 const Hero = () => {
