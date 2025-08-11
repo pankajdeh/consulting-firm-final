@@ -7,7 +7,7 @@ import Image from "next/image";
 
 import Link from "next/link";
 
-import iso from "../../public/Images/iso.JPG";
+import iso from "../../public/Images/iso.jpg";
 
 import FooterHero from "../../public/Images/FooterHero.JPG";
 import { FaInstagram } from "react-icons/fa";

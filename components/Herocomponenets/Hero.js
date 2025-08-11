@@ -7,7 +7,7 @@ import Image from "next/image";
 import windmill from "../../public/Images/windmill.png";
 import React, { useState, useEffect } from "react";
 // import Image from "next/image";
-import iso from "../../public/Images/iso.JPG"; // Updated to use the correct image path
+import iso from "../../public/Images/iso.jpg"; // Updated to use the correct image path
 import GradualSpacing from "@/components/magicui/gradual-spacing";
 
 
