@@ -6,7 +6,7 @@ import { useTypewriter, Cursor } from "react-simple-typewriter";
 import Image from "next/image";
 import windmill from "../../public/Images/windmill.png";
 import React, { useState, useEffect } from "react";
-// import Image from "next/image";
+
 import iso from "../../public/Images/iso.jpg"; // Updated to use the correct image path
 import GradualSpacing from "@/components/magicui/gradual-spacing";
 
@@ -61,7 +61,7 @@ const Hero = () => {
                      <Image
                   className="object-fill h-[30px] w-[30px] rounded-lg "
                   src={iso}
-                  alt="ISO"
+                  alt="ISO image"
                 />
                     <p className="font-semibold text-md md:text-lg text-white">
                  {`ISO 9001:2015 14001:2015, 45001:2018, 20400:2017, 14064.1:2018 

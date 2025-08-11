@@ -15,8 +15,6 @@ import { SlSocialFacebook } from "react-icons/sl";
 import { FaWhatsapp } from "react-icons/fa";
 import "primeicons/primeicons.css";
 
-
-
 const Footer = () => {
  
   return (
@@ -223,13 +221,12 @@ const Footer = () => {
              <Image
           className="object-fill h-[30px] w-[30px] rounded-lg "
           src={iso}
-          alt="ISO"
+          alt="iso image"
         />
            <p className="font-semibold text-md md:text-lg text-white">
          {`ISO 9001:2015 14001:2015, 45001:2018, 20400:2017, 14064.1:2018
           `}</p>
           </div>
-
 
 
           <p className="text-xs md:text-base text-white mt-2">
