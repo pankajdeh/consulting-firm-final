@@ -7,7 +7,8 @@ import Image from "next/image";
 
 import Link from "next/link";
 
-import ISO from "../../public/Images/ISO.JPG";
+import iso from "../../public/Images/iso.JPG";
+
 import FooterHero from "../../public/Images/FooterHero.JPG";
 import { FaInstagram } from "react-icons/fa";
 import { SlSocialFacebook } from "react-icons/sl";
@@ -221,11 +222,11 @@ const Footer = () => {
           <div className="flex justify-center items-center mt-2 gap-x-2" >
              <Image
           className="object-fill h-[30px] w-[30px] rounded-lg "
-          src={ISO}
+          src={iso}
           alt="ISO"
         />
-            <p className="font-semibold text-md md:text-lg text-white">
-         {`ISO 9001:2015 Certified Company
+           <p className="font-semibold text-md md:text-lg text-white">
+         {`ISO 9001:2015 14001:2015, 45001:2018, 20400:2017, 14064.1:2018
           `}</p>
           </div>
 

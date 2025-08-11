@@ -7,7 +7,7 @@ import Image from "next/image";
 import windmill from "../../public/Images/windmill.png";
 import React, { useState, useEffect } from "react";
 // import Image from "next/image";
-import ISO from "../../public/Images/ISO.JPG"; // Updated to use the correct image path
+import iso from "../../public/Images/iso.JPG"; // Updated to use the correct image path
 import GradualSpacing from "@/components/magicui/gradual-spacing";
 
 
@@ -60,11 +60,11 @@ const Hero = () => {
          <div className="flex justify-center items-center mt-1 gap-x-2" >
                      <Image
                   className="object-fill h-[30px] w-[30px] rounded-lg "
-                  src={ISO}
+                  src={iso}
                   alt="ISO"
                 />
                     <p className="font-semibold text-md md:text-lg text-white">
-                 {`ISO 9001:2015 Certified Company
+                 {`ISO 9001:2015 14001:2015, 45001:2018, 20400:2017, 14064.1:2018 
                   `}</p>
                   </div>
         
